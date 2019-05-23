@@ -1,0 +1,2 @@
+# applied-ai
+Coursework Projects
